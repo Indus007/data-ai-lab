@@ -1,0 +1,110 @@
+{
+    "assembly_summary": [
+{
+"activity_type": "comments",
+"state": {
+"RECENT": 3,
+"LONG_STANDING": 3
+},
+"timeline": {
+"NA": 6
+},
+"flagStatus": {
+"UNFLAGGED": 6
+},
+"ownershipStatus": {
+"NA": 6
+},
+"activityStatus": {
+"NA": 6
+}
+},
+{
+"activity_type": "likes",
+"state": {
+"RECENT": 5
+},
+"timeline": {
+"NA": 5
+},
+"flagStatus": {
+"UNFLAGGED": 5
+},
+"ownershipStatus": {
+"ASSIGNED": 5
+},
+"activityStatus": {
+"NA": 5
+}
+},
+{
+"activity_type": "hits",
+"state": {
+"LONG_STANDING": 11,
+"OLD": 9,
+"RECENT": 2
+},
+"timeline": {
+"NA": 9,
+"OVERDUE": 9,
+"DUE_RECENT": 3,
+"DUE_TODAY": 1
+},
+"flagStatus": {
+"UNFLAGGED": 21,
+"FLAGGED": 1
+},
+"ownershipStatus": {
+"ASSIGNED": 21,
+"UNASSIGNED": 1
+},
+"activityStatus": {
+"NA": 17,
+"UPDATED_RECENTLY": 3,
+"UPDATED_TODAY": 2
+}
+},
+{
+"activity_type": "shares",
+"state": {
+"OLD": 1,
+"LONG_STANDING": 1
+},
+"timeline": {
+"DUE_RECENT": 1,
+"OVERDUE": 1
+},
+"flagStatus": {
+"UNFLAGGED": 2
+},
+"ownershipStatus": {
+"ASSIGNED": 2
+},
+"activityStatus": {
+"NA": 2
+}
+},
+{
+"activity_type": "subscriptions",
+"state": {
+"LONG_STANDING": 3,
+"OLD": 2
+},
+"timeline": {
+"OVERDUE": 2,
+"DUE_RECENT": 2,
+"NA": 1
+},
+"flagStatus": {
+"UNFLAGGED": 5
+},
+"ownershipStatus": {
+"ASSIGNED": 3,
+"UNASSIGNED": 2
+},
+"activityStatus": {
+"NA": 5
+}
+}
+]
+}
